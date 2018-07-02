@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 var name = "lokesh"
     var name1 = "vinod"
+    var name3 = "mahesh"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
